@@ -544,6 +544,8 @@ Agent Skills 不仅仅是个技术概念，更是一种新的工作方式。你�
 
 让我们一起探索 Agent Skills 的更多可能性吧！
 
+💡 想获取更多优质 Skills 资源？可以阅读《优质 AI 编程扩展推荐》中的 Agent Skills 技能类章节，里面有 Skills 安装管理工具、Skills 资源平台和必装推荐的汇总。
+
 
 
 ## 推荐资源

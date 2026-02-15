@@ -56,7 +56,7 @@ Dify 提供了可视化的配置界面，你可以通过拖拽的方式搭建 AI
 
 ![](https://pic.yupi.icu/1/1743560803824-ab33d9d9-e994-45e5-8190-fc104e679747.png)
 
-不同大模型的参数规模、处理能力、接受的对话长度是不一样的。比如 Claude Opus 4.5 编程能力很强，Gemini 3 Pro 支持超长上下文，DeepSeek 完全免费。
+不同大模型的参数规模、处理能力、接受的对话长度是不一样的。比如 Claude Opus 编程能力很强，Gemini 3 Pro 支持超长上下文，DeepSeek 完全免费。
 
 ![](https://pic.yupi.icu/1/1743560841202-c37cde5b-0b25-4ebb-adff-3ab66af35d75.png)
 
